@@ -1,0 +1,12 @@
+English : en_US
+Русский : ru_RU
+Português : pt_BR
+Español : es_ES
+Français : fr_FR
+Polski : pl_PL
+עברית : iw_IL
+Italiano : it_IT
+Türkçe : tr_TR
+Deutsch : de_DE
+한국어 : ko_KR
+العربية : ar_MA
